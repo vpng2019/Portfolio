@@ -43,7 +43,7 @@ business partners.
 4. **Biztalk EDI Processing:**  
    - [Outbound EDI processing](https://github.com/vpng2019/biztalk-x12-edi-integration)
     
-### 💼 Professional Experience
+## <ins>Professional Experience<ins>
 
 #### **NTT Data** — *Project Manager*
 `Jul 2025 – Mar 2026` | *India*
