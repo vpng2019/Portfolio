@@ -7,18 +7,21 @@ delivering scalable cloud based & on-premise applications using Microsoft Azure 
 
 ## <ins>Highlights</ins>
 
-Designed and implemented scalable cloud -based integration solutions using Azure Logic Apps, Function Apps, Service Bus, automating
+* Global experience of working out of India (Delhi, Gurgaon, Bangalore, Mumbai), Middle East (Dubai, Abu Dhabi), Europe (Belgium).
+  
+* Designed and implemented scalable cloud -based integration solutions using Azure Logic Apps, Function Apps, Service Bus, automating
 complex business workflows for large enterprise clients. Extensive Biztalk Server expertise in developing BizTalk applications,
 designing orchestrations, pipelines, XSD schemas, writing custom XSLT code for maps.
 
-Designed and implemented end-to-end integration solutions using Microsoft Azure, BizTalk Server and SAP.
+* Designed and implemented end-to-end integration solutions using Microsoft Azure, BizTalk Server and SAP.
 
-Led successful migration of legacy systems to Azure resulting in significant reduction in infrastructure spending.
+* Led successful migration of legacy systems to Azure resulting in significant reduction in infrastructure spending.
 
-Strong background in monitoring and troubleshooting of integration workflows.
+* Strong background in monitoring and troubleshooting of integration workflows.
 
-Spearheaded the development of EDI integrations using X12 and EDIFACT standards, enabling seamless data exchange with key
+* Spearheaded the development of EDI integrations using X12 and EDIFACT standards, enabling seamless data exchange with key
 business partners.
+
 ## <ins>Key Projects</ins>
 1. **Azure-LogicApp-ServiceBus-Integration:**  
    - [Purchase Order (PO) processing workflow](https://github.com/vpng2019/Azure-LogicApp-ServiceBus-Integration)
