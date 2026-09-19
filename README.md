@@ -1,13 +1,12 @@
 
-*A passionate Software Engineer turned Data Scientist with close to 15 years of work experience.*
-
+Highly skilled Microsoft Certified Technology Specialist (MCTS) with over 15 years of extensive IT experience in architecting, developing and
+delivering scalable cloud based & on-premise applications using Microsoft Azure and Microsoft BizTalk Server 2020, 2016, 2013, 2010, 2009, 2006 R2. 
 ## <ins>Education</ins>
 
 - **2007** - Bachelors in Computer Science Engineering.
 
 ## <ins>Highlights</ins>
-Highly skilled Microsoft Certified Technology Specialist (MCTS) with over 15 years of extensive IT experience in architecting, developing and
-delivering scalable cloud based & on-premise applications using Microsoft Azure and Microsoft BizTalk Server 2020, 2016, 2013, 2010, 2009, 2006 R2. 
+
 Designed and implemented scalable cloud -based integration solutions using Azure Logic Apps, Function Apps, Service Bus, automating
 complex business workflows for large enterprise clients. Extensive Biztalk Server expertise in developing BizTalk applications,
 designing orchestrations, pipelines, XSD schemas, writing custom XSLT code for maps.
