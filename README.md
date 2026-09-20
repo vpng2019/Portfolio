@@ -1,6 +1,15 @@
+## Professional Summary
 
-Highly skilled Microsoft Certified Technology Specialist (MCTS) with over 15 years of extensive IT experience in architecting, developing and
-delivering scalable cloud based & on-premise applications using Microsoft Azure and Microsoft BizTalk Server 2020, 2016, 2013, 2010, 2009, 2006 R2. 
+**Highly skilled Microsoft Certified Technology Specialist (MCTS)** with over 15 years of extensive IT experience in architecting, developing, and delivering scalable & on-premise solutions using **Microsoft Azure and Microsoft BizTalk Server** 2020, 2016, 2013, 2010, 2009, 2006 R2.
+
+I bring hands-on expertise in designing and developing **Azure services**, including **Logic Apps, Azure Functions, Service Bus, and Application Insights**, along with **BizTalk Server technologies**, including orchestrations, pipelines, XSD schemas, XSLT maps, and EDI integrations (X12 and EDIFACT), as well as REST, HTTP, JSON, SQL Server, and SAP integration.
+
+Alongside technical delivery, I have led **cross-functional and distributed teams**, supported Agile/Scrum delivery, coordinated SIT, UAT, production deployment and go-live activities, managed stakeholder communication and delivery risks, and contributed to **AI product strategy and lifecycle management**. 
+
+My approach combines hands-on technical depth with a **project management-oriented focus on planning, coordination, delivery governance, technical decision-making, and execution** across international environments in India, the Middle East, and Europe.
+
+---
+
 
 ## <ins>Education</ins>
 
